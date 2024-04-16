@@ -7,12 +7,11 @@ Este projeto consiste em uma análise da qualidade de dois tipos de vinhos: vinh
 O dataset utilizado nesta análise contém diversas variáveis químicas e sensoriais de vinhos, como acidez, pH, teor alcoólico, entre outros. Utilizamos técnicas de análise exploratória de dados e modelagem estatística para compreender a relação entre essas variáveis e a qualidade dos vinhos.
 
 ## Requisitos
-- Python 3.x
+- Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn
 
 ## Instalação
 1. Clone o repositório para o seu ambiente local:
