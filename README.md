@@ -20,15 +20,12 @@ O dataset utilizado nesta análise contém diversas variáveis químicas e senso
    
    
 2. Navegue até o diretório do projeto:
-
-   
-#### Uso
-1. Execute o notebook Jupyter `analise_vinhos.ipynb` para visualizar a análise completa.
+### Uso
+1. Execute o notebook Jupyter `projeto_vinho_aluno.ipynb` para visualizar a análise completa.
 2. Explore os diferentes gráficos e resultados gerados para entender os fatores que influenciam a qualidade dos vinhos.
 
-#### Contribuindo
+### Contribuindo
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para discutir novas ideias ou propor melhorias.
-
 
 4. Instale as dependências usando pip terminal:
 Certifique-se de que as seguintes bibliotecas estejam instaladas:
